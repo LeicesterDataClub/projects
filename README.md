@@ -1,4 +1,4 @@
-## Welcome to the Data Club at Leicester University
+## Welcome to the Data Club at the University of Leicester
 
 This is a place for sharing data, ideas and solutions at University of Leicester.
 
