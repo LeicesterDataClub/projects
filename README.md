@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to the Data Club at Leicester University
+
+This is a place for sharing data, ideas and solutions at University of Leicester.
+
+We will be working on different types of data and each session experts will introduce their data and ideas on how to use it.
+
 
 You can use the [editor on GitHub](https://github.com/SamadAhmadi/DataClub/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
